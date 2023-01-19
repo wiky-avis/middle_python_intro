@@ -1,6 +1,5 @@
 import pytest
-
-from app.main import greeting
+from main import greeting
 
 
 @pytest.mark.parametrize(
